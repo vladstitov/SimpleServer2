@@ -1,0 +1,10 @@
+{
+  "name": "SimpleServer2",
+  "version": "0.0.0",
+  "description": "SimpleServer2",
+  "main": "server.js",
+  "author": {
+    "name": "VladHome",
+    "email": ""
+  }
+}
